@@ -13,6 +13,7 @@
 > Robustified ANNs reliably discover image perturbations in the "human-presumed-stable" pixel-budget regime that can strongly disrupt human behavior, or can precisely drive human perceptual state transitions to prescribed target states.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" height=22.5></a>
+<a href=".github/supplementary.pdf" target="_blank"><img src="https://img.shields.io/badge/supplementary-material-b31b1b.svg" height=22.5></a>
 
 
 ###
