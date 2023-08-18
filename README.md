@@ -14,6 +14,7 @@
 
 <a href="https://arxiv.org/abs/2308.06887" target="_blank"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg" height=22.5></a>
 <a href=".github/supplementary.pdf" target="_blank"><img src="https://img.shields.io/badge/supplementary-material-b31b1b.svg" height=22.5></a>
+<a href="https://himjl.github.io/pwormholes/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-blue.svg" height=22.5></a>
 
 
 ###
