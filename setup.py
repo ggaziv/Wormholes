@@ -31,7 +31,7 @@ def get_version(rel_path):
 setup(
   name='wormholes',
   version=get_version("wormholes/__init__.py"),
-  description="Code for 'Robustified ANNs Reveal Wormholes Between Human Category Percepts'",
+  description="Code for 'Robustified ANNs Reveal Wormholes Between Human Category Percepts' (NeurIPS 2023)",
   long_description=open('README.md', encoding='utf-8').read(),
   long_description_content_type="text/markdown",
   author='Guy Gaziv',
