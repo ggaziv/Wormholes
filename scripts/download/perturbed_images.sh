@@ -13,7 +13,7 @@ mkdir -p results/cache
 cd results/cache
 
 
-for ver in v26 v25 v23 v21 v18 v17 v7
+for ver in v2 v4 v5 v6 v7 v8 v9
 do
     echo $ver
     mkdir -p gen_${ver}

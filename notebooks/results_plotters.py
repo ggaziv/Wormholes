@@ -194,7 +194,7 @@ class Plotter_9Way(Plotter):
         return ds1
 
 
-class GenV18_Plotter_9Way(Plotter_9Way):      
+class GenV5_Plotter_9Way(Plotter_9Way):      
     def add_behavior_data(self, ds, behavior_data_name):
         ds1 = xr.open_dataset(f"{PROJECT_ROOT}/results/behavior/{behavior_data_name}")
         if 'worker_id' not in ds1.k.dims:
@@ -243,11 +243,11 @@ class GenV18_Plotter_9Way(Plotter_9Way):
         return ds1
 
 
-class GenV21_Plotter_9Way(GenV18_Plotter_9Way):     
+class GenV6_Plotter_9Way(GenV5_Plotter_9Way):     
     pass
 
 
-class GenV23_Plotter_9Way(GenV18_Plotter_9Way):     
+class GenV7_Plotter_9Way(GenV5_Plotter_9Way):     
     def setup_behavior_data(self, ds1, ds):
         # Treat case of mild renaming of class_name field
         if not np.array_equal(ds.class_name.values, ds1.choice.values):
@@ -257,7 +257,7 @@ class GenV23_Plotter_9Way(GenV18_Plotter_9Way):
         return ds1
 
 
-class GenV25_Plotter_9Way(GenV18_Plotter_9Way):     
+class GenV8_Plotter_9Way(GenV5_Plotter_9Way):     
     pass
 
 
@@ -345,7 +345,7 @@ class Plotter_Untargeted_9Way(Plotter):
                         style=style, custom_palette=custom_palette, **kwargs)
         
 
-class GenV17_Plotter_Untargeted_9Way(Plotter_Untargeted_9Way):
+class GenV4_Plotter_Untargeted_9Way(Plotter_Untargeted_9Way):
     def add_behavior_data(self, ds, behavior_data_name):
         ds1 = xr.open_dataset(f"{PROJECT_ROOT}/results/behavior/{behavior_data_name}")
         if 'worker_id' not in ds1.k.dims:

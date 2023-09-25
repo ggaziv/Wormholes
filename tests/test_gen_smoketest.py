@@ -4,7 +4,7 @@ from tempfile import TemporaryDirectory, NamedTemporaryFile
 from argparse import Namespace
 
 
-@pytest.mark.parametrize('gen_version', [7, 17, 18, 21, 23, 25, 26])
+@pytest.mark.parametrize('gen_version', [2, 4, 5, 6, 7, 8, 9])
 @pytest.mark.parametrize('num', [0, 10, 13])
 def test_gen(gen_version, num, batch_size=5):
     cfg = Namespace(num=num, seed=0, batch_size=batch_size, gen_version=gen_version)
@@ -28,3 +28,4 @@ def test_gen(gen_version, num, batch_size=5):
     with TemporaryDirectory() as output_folder:
         gen_obj.output_folder = output_folder
         gen_obj.run()
+        
