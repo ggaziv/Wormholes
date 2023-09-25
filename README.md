@@ -1,4 +1,4 @@
-# Robustified ANNs Reveal Wormholes <br>Between Human Category Percepts :bug:
+# Robustified ANNs Reveal Wormholes <br>Between Human Category Percepts (NeurIPS 2023)
 
 
 <div align="left">
