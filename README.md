@@ -1,21 +1,9 @@
-# Robustified ANNs Reveal Wormholes <br>Between Human Category Percepts :bug:
+# Robustified ANNs Reveal Wormholes <br>Between Human Category Percepts (NeurIPS 2023)
 
 
 <div align="left">
   <img width="90%" src=".github/interp_cycle.gif">
 </div>
-
-
-<!-- <div align="left">
-  <img width="10px">
-  <img width="224px" src=".github/flowers.gif">
-  <img width="10px">
-  <img width="224px" src=".github/painting_house.gif">
-  <img width="10px">
-  <img width="224px" src=".github/swimming_pool.gif">
-  <img width="10px">
-  <img width="224px" src=".github/desserts.gif">
-</div> -->
 
 ### ***Official implementation & data for:***
 > **Robustified ANNs Reveal Wormholes Between Human Category Percepts (NeurIPS 2023)** \
@@ -29,21 +17,10 @@
 <a href="https://video.tau.ac.il/events/index.php?option=com_k2&view=item&id=10112:fmri&Itemid=550" target="_blank"><img src="https://img.shields.io/badge/-Summary Video-purple.svg" height=22.5></a>
 
 
-<!-- Images Viewing: <a href="http://colab.research.google.com/github/ggaziv/Wormholes/blob/master/notebooks/images_view.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=20></a>  
-Paper Results: <a href="http://colab.research.google.com/github/ggaziv/Wormholes/blob/master/notebooks/results_figures.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height=20></a>   -->
-
-
 ###
 <div align="left">
   <img width="90%" src=".github/main_results.gif">
 </div>
-
-<!--
-<div align="center">
- 	<img width="100%" alt="Summary" src=".github/summary.png"> 
-	<img width="100%" alt="Summary" src=".github/TM_results.png">
-</div>
--->
 
 
 ## Table of Contents
@@ -132,12 +109,11 @@ This code borrows from [robustness](https://github.com/MadryLab/robustness).
 
 ## Citation
 If you find this repository useful, please consider giving a star ⭐️ and citation:
-TODO: Change citation.
 ```
-@article{Gaziv2021MoreActivity,
-	title = {{More Than Meets the Eye: Self-Supervised Depth Reconstruction From Brain Activity}},
-	author = {Gaziv, Guy and Irani, Michal},
-	journal={arXiv preprint arXiv:2106.05113},
-	year = {2021}
+@article{Gaziv2023,
+  title = {Robustified ANNs Reveal Wormholes Between Human Category Percepts},
+  author = {Guy Gaziv and Michael J. Lee and James J. DiCarlo},
+  url = {https://arxiv.org/abs/2308.06887v1},
+  year = {2023},
 }
 ```
