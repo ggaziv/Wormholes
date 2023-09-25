@@ -23,3 +23,15 @@
 </div>
 
 # Code Coming Soon!
+
+## Citation
+```
+@misc{gaziv2023robustified,
+      title={Robustified ANNs Reveal Wormholes Between Human Category Percepts}, 
+      author={Guy Gaziv and Michael J. Lee and James J. DiCarlo},
+      year={2023},
+      eprint={2308.06887},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
