@@ -1,4 +1,4 @@
-# Robustified ANNs Reveal Wormholes <br>Between Human Category Percepts (NeurIPS 2023)
+# Strong and Precise Modulation of Human Percepts <br>via Robustified ANNs (NeurIPS 2023)
 
 
 <div align="left">
@@ -6,7 +6,7 @@
 </div>
 
 ### ***Official implementation & data for:***
-> **Robustified ANNs Reveal Wormholes Between Human Category Percepts** \
+> **Strong and Precise Modulation of Human Percepts via Robustified ANNs** \
 > Guy Gaziv*, Michael J. Lee*, James J. DiCarlo  
 > 
 > **TL;DR**  
