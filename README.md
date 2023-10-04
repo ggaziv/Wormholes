@@ -111,9 +111,9 @@ This code borrows from [robustness](https://github.com/MadryLab/robustness).
 If you find this repository useful, please consider giving a star ⭐️ and citation:
 ```
 @article{Gaziv2023,
-  title = {Robustified ANNs Reveal Wormholes Between Human Category Percepts},
+  title  = {Robustified ANNs Reveal Wormholes Between Human Category Percepts},
   author = {Guy Gaziv and Michael J. Lee and James J. DiCarlo},
-  url = {https://arxiv.org/abs/2308.06887v1},
-  year = {2023},
+  url    = {https://arxiv.org/abs/2308.06887v1},
+  year   = {2023},
 }
 ```
