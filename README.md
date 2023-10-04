@@ -113,7 +113,7 @@ If you find this repository useful, please consider giving a star ⭐️ and cit
 @article{Gaziv2023,
   title  = {Robustified ANNs Reveal Wormholes Between Human Category Percepts},
   author = {Guy Gaziv and Michael J. Lee and James J. DiCarlo},
-  url    = {https://arxiv.org/abs/2308.06887v1},
+  url    = {https://arxiv.org/abs/2308.06887},
   year   = {2023},
 }
 ```
