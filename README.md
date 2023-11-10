@@ -31,6 +31,7 @@
 - [Paper results](#viewing-paper-results)
 - [Generating images](#perturbing-images)
 - [Training models](#training-models)
+- [Behavioral experiments](#behavioral-experiments-psychophysics)
 - [Acknowledgments](#acknowledgments)
 - [Citation](#citation)
 
@@ -101,6 +102,10 @@ python scripts/combine_results.py --gen_version <X>
 
 ## Training models
 Scripts for training models and surrogate models, similar to those in the paper (albeit from a different seed), are included under `scripts/train/`.
+
+
+## Behavioral experiments (psychophysics)
+Follow [instructions](https://github.com/ggaziv/Wormholes/blob/main/psych/README.md) under `psych/`.
 
 
 ## Acknowledgments
