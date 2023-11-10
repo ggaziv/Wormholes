@@ -1,6 +1,6 @@
 # Behavioral experiments
 
-Contained in this directory are HTML files which run the behavioral tasks that we used to derive our behavioral measurements in this paper. Each HTML corresponds to a separate behavioral session. 
+Contained in this directory is a `.zip` file containing HTML files which run the behavioral tasks that we used to derive our behavioral measurements in this paper. Each HTML corresponds to a separate behavioral session. 
 
 
 To reproduce our experiments, please follow the steps below: 
