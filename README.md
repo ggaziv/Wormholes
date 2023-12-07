@@ -12,7 +12,7 @@
 > **TL;DR**  
 > Robustified ANNs reliably discover image perturbations in the "human-presumed-stable" pixel-budget regime that can strongly disrupt human behavior, or can precisely drive human perceptual state transitions to prescribed target states.
 
-<a href="https://neurips.cc/virtual/2023/poster/72812" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-paper-b31b1b.svg" height=22.5></a>
+<a href="https://openreview.net/pdf?id=5GmTI4LNqX" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-paper-b31b1b.svg" height=22.5></a>
 <a href=".github/supplementary.pdf" target="_blank"><img src="https://img.shields.io/badge/supplementary-material-b31b1b.svg" height=22.5></a>
 <a href="https://himjl.github.io/pwormholes/" target="_blank"><img src="https://img.shields.io/badge/-Project Page-blue.svg" height=22.5></a>
 <a href="https://recorder-v3.slideslive.com/?share=85535&s=2a593e9a-386c-435e-b3c2-752873beec56" target="_blank"><img src="https://img.shields.io/badge/-Summary Video-yellow.svg" height=22.5></a>
